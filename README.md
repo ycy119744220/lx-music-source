@@ -154,7 +154,7 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/xinghai
 | [grass](#grass) | 🔴 失效 |
 | [ikun](#ikun) | 🔴 失效 |
 
-检测时间：2026-10-30 05:41（北京时间）
+检测时间：2026-10-31 05:24（北京时间）
 <!-- HEALTH-CHECK:END -->
 
 ## 数据来源
