@@ -145,16 +145,16 @@ https://ghproxy.net/raw.githubusercontent.com/pdone/lx-music-source/main/xinghai
 | --- | --- |
 | [changqing](#changqing) | 🟢 可用 |
 | [huanyin](#huanyin) | 🟢 可用 |
+| [juhe](#juhe) | 🟢 可用 |
+| [lx](#lx) | 🟢 可用 |
 | [qdy](#qdy) | 🟢 可用 |
 | [xinghai](#xinghai) | 🟢 可用 |
 | [huibq](#huibq) | 🟡 异常 |
-| [juhe](#juhe) | 🟡 异常 |
-| [lx](#lx) | 🟡 异常 |
 | [flower](#flower) | 🔴 失效 |
 | [grass](#grass) | 🔴 失效 |
 | [ikun](#ikun) | 🔴 失效 |
 
-检测时间：2026-11-24 11:12（北京时间）
+检测时间：2026-11-25 09:17（北京时间）
 <!-- HEALTH-CHECK:END -->
 
 ## 数据来源
